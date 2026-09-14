@@ -1,0 +1,10 @@
+2026-09-15 09:10:01 | LOGIN_SUCCESS | user=admin | ip=192.168.1.10
+2026-09-15 09:11:10 | LOGIN_FAILED | user=admin | ip=192.168.1.50
+2026-09-15 09:11:20 | LOGIN_FAILED | user=admin | ip=192.168.1.50
+2026-09-15 09:11:30 | LOGIN_FAILED | user=admin | ip=192.168.1.50
+2026-09-15 09:15:00 | LOGIN_SUCCESS | user=student | ip=192.168.1.20
+2026-09-15 09:20:12 | LOGIN_FAILED | user=test | ip=10.0.0.25
+2026-09-15 09:21:14 | LOGIN_FAILED | user=test | ip=10.0.0.25
+2026-09-15 09:22:20 | LOGIN_FAILED | user=test | ip=10.0.0.25
+2026-09-15 09:23:25 | LOGIN_FAILED | user=test | ip=10.0.0.25
+2026-09-15 09:24:00 | LOGIN_FAILED | user=test | ip=10.0.0.25
